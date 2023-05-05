@@ -1,4 +1,4 @@
-# AI-image-recognition
+# Computer vision
 I'm learning AI. Here are some of my image recognition projects.
 Any tips, feedback or courses that anyone can recommend I'd be really grateful.
 
